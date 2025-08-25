@@ -1,0 +1,13 @@
+repositories:
+  ARX_Model:
+    type: git
+    url: https://github.com/IIMFINE/ARX_Model.git
+    version: master
+  ARX_PLAY:
+    type: git
+    url: https://github.com/ARXroboticsX/ARX_PLAY.git
+    version: main
+  R5:
+    type: git
+    url: https://github.com/IIMFINE/ARX_R5_robot_sdk.git
+    version: master
