@@ -11,3 +11,7 @@ repositories:
     type: git
     url: https://github.com/IIMFINE/ARX_R5_robot_sdk.git
     version: master
+  arx_robot_r5_moveit2_config:
+    type: git
+    url: https://github.com/IIMFINE/arx_robot_r5_moveit2_config.git
+    version: main
